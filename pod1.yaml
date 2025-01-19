@@ -4,7 +4,7 @@ metadata:
   creationTimestamp: null
   labels:
     run: busybox
-  name: busybox
+  name: busybox2
 spec:
   containers:
   - args:
